@@ -57,3 +57,10 @@ Precedents include:
 * [call-bind][]: `callBind`
 
 [call-bind]: https://www.npmjs.com/package/call-bind
+
+## Polyfill
+
+- A polyfill is available in the [core-js] library. You can find it in the [ECMAScript proposals section][core-js-section].
+
+[core-js]: https://github.com/zloirock/core-js
+[core-js-section]: https://github.com/zloirock/core-js#functionprototypeunthis

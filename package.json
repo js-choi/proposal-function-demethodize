@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "proposal-function-un-this",
-  "description": "Draft specification for a standard unthis function in JavaScript.",
+  "name": "proposal-function-demethodize",
+  "description": "Draft specification for a standard demethodize function in JavaScript.",
   "author": "J. S. Choi <jschoi@jschoi.org> (https://jschoi.org/)",
   "license": "BSD-3-Clause",
-  "repository": "github:js-choi/proposal-function-unthis"
+  "repository": "github:js-choi/proposal-function-demethodize"
 }

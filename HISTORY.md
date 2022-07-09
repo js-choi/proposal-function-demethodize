@@ -1,4 +1,4 @@
-# Brief history of JavaScript unThis function
+# Brief history of JavaScript demethodize function
 Function operations in JavaScript has a long and twisty history. That history
 can give essential context behind this proposal.
 
@@ -19,7 +19,7 @@ For more information, see the [pipe proposal’s HISTORY.md][pipe history].
 ## 2021-09
 Inspired by [pipe issue #233][], [@js-choi][] creates a new proposal,
 [proposal-function-helpers][], that would add several Function helper methods.
-These include Function.unThis.
+These include Function.demethodize.
 
 ## 2021-10
 [On 2021-10, proposal-function-helpers is presented to the Committee
